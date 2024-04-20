@@ -18,7 +18,7 @@
 ## Como Utilizar
 bash
 Copy code
-git clone (https://danielpqds.github.io/projeto-alura-midi/)
+git clone (https://projeto-alura-midi-peach.vercel.app/)
 Em seguida, navegue até o diretório do projeto e abra o arquivo index.html em seu navegador preferido.
 
 ## Contribuições
